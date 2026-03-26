@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavan Badiger</h1>
-<h3 align="center">Student at Angadi Institute of Technology and Management</h3>
+<h1 align="center">Hi 👋, I'm Pavan S Badiger</h1>
+<h3 align="center">Student at Angadi Institute of Technology and Management, Belagavi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavn31&label=Profile%20views&color=0e75b6&style=flat" alt="pavn31" /> </p>
 
@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently studying at **AITM, Belagavi**
 
-- 🌱 I’m currently learning **Python, AI/DS**
+- 🌱 I’m currently learning **Python, C/C++, Data Science, AI**
 
-- 👯 I’m looking to collaborate with **other students and mentors**
+- 👯 I’m looking to collaborate with **Learning from Experienced Individuals**
 
-- 🤝 I’m looking for help with **skill developments and programming languages**
+- 🤝 I’m looking for help with **Skill Developments and Programming Languages**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **New Ideas**
 
-- 📫 How to reach me **pavnbadiger@gmail.com**
+- 📫 How to reach me **pavnbadiger@gmail.com and PavanBadiger2.5@outlook.com**
 
-- ⚡ Fun fact **i think i am good in discussion**
+- ⚡ Fun fact **I think I'm good at discussing and learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
