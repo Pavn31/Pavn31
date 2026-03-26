@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan S Badiger</h1>
 <h3 align="center">Student at Angadi Institute of Technology and Management, Belagavi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavn31&label=Profile%20views&color=0e75b6&style=flat" alt="pavn31" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pavn31&label=Profile%20views&color=0e75b6&style=flat](https://www.pexels.com/photo/a-laptop-screen-with-text-4439901/)" alt="pavn31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavn31" alt="pavn31" /></a> </p>
 
