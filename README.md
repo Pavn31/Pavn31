@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan S Badiger</h1>
-<h3 align="center">Student at Angadi Institute of Technology and Management, Belagavi</h3>
+<h3 align="center">Student at AITM, Belagavi</h3>
 
 <p align="left"> <img src="" alt="pavn31" /> </p>
 
