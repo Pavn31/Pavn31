@@ -1,3 +1,5 @@
+***Hello there, myself is Pavan Badiger***
+
 # 💫 About Me:
 🔭 I’m currently working on AITM, Belagavi<br>👯 I’m looking to collaborate on Projects and Hackathons<br>🤝 I’m looking for help with Programming<br>🌱 I’m currently learning Python, C/C++, DS, SQL.<br>💬 Ask me about C/C++, Python<br>⚡ Fun fact I think I am Funny
 
