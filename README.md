@@ -24,4 +24,10 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Pavn31&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔗 Connect With Me
+- GitHub: https://github.com/Pavn31
+- LinkedIn: https://linkedin.com/in/pavn-badiger/
+- Protofolio: https://portfolio-9rn034gef-pvn31-s-projects.vercel.app/
+
+---
+⭐ Always building something cool.
