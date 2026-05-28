@@ -27,7 +27,7 @@
 ## 🔗 Connect With Me
 - GitHub: https://github.com/Pavn31
 - LinkedIn: https://linkedin.com/in/pavn-badiger/
-- Protofolio: https://portfolio-9rn034gef-pvn31-s-projects.vercel.app/
+- Protofolio: https://pavn31.dpdns.org/
 
 ---
 ⭐ Always building something cool.
