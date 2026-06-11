@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavn31&label=Profile%20views&color=0e75b6&style=flat" alt="pavn31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavn31" alt="pavn31" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pavn31" target="blank"><img src="https://img.shields.io/twitter/follow/pavn31?logo=twitter&style=for-the-badge" alt="pavn31" /></a> </p>
 
 - 🔭 I’m currently Studying **AI/DS engineering.**
