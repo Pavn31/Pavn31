@@ -2,7 +2,7 @@
   <img src="./assets/Zoro-icon.jpg" width="100%">
 </p>
 
-# Know About Me
+# 🌸 𝒦𝓃𝑜𝓌 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
 <p align="center">
   <img src="./assets/About.gif" width="500">
 </p>
