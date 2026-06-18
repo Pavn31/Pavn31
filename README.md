@@ -17,5 +17,5 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 
 | Project | Description |
 |----------|-------------|
-| Smart Blind Stick | Arduino assistive navigation system |
-| Portfolio Website | Personal developer portfolio |
+| Smart Blind Stick    | Arduino assistive navigation system |
+| Portfolio Website    | Personal developer portfolio |
