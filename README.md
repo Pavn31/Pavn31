@@ -3,15 +3,8 @@
 <h3 align="center">AI & Data Science Student</h3>
 
 <p align="center">
-Building cool projects with Web Development, Arduino and AI.
+  <img src="https://raw.githubusercontent.com/Pavn31/Pavn31/main/github-metrics.svg" alt="GitHub Metrics">
 </p>
-
----
-## 📊 GitHub Metrics
-
-![Metrics](./github-metrics.svg)
-
-
 ## 🚀 Featured Projects
 
 - Smart Blind Stick
