@@ -18,8 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pavn31&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Pavn31&icon=5&color=13)](https://visitcount.itsvg.in)
