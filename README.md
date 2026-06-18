@@ -15,8 +15,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Pavn31&theme=onedark&no-frame=true)
-
+[![An image of @pavn31's Holopin badges](https://holopin.me/pavn31)](https://holopin.io/@pavn31)
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Pavn31/Pavn31/output/github-contribution-grid-snake.svg)
