@@ -65,14 +65,7 @@ Personal portfolio showcasing projects, skills, and development journey.
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavn31&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pavn31&theme=transparent&hide_border=true" />
-</p>
----
+![Snake animation](https://raw.githubusercontent.com/Pavn31/Pavn31/output/github-contribution-grid-snake.svg)
 
 ## 🎯 Current Goals
 
