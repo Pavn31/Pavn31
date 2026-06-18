@@ -15,7 +15,17 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 # Top Projects
 <img align="right" width="350" src="./assets/Buh.jpg">
 
-| Project | Description |
-|----------|-------------|
-| Smart Blind Stick    | Arduino assistive navigation system |
-| Portfolio Website    | Personal developer portfolio |
+# Top Projects
+
+<img align="right" width="250" src="./assets/Buh.jpg">
+
+### Smart Blind Stick
+Arduino assistive navigation system designed to assist visually impaired individuals using ultrasonic sensors and obstacle detection.
+
+### Portfolio Website
+Personal developer portfolio showcasing projects, skills, and development journey.
+
+### AI Projects
+Machine learning experiments, AI applications, and data science projects.
+
+<br clear="right"/>
