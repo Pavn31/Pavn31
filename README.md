@@ -53,4 +53,4 @@ Modern personal portfolio showcasing projects and skills.
 
 ## 🌸 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓖𝓻𝓪𝓹𝓱
 
-[![Pavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&theme=tokyo-night&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffc0cb&area=true&hide_border=true)](https://github.com/Pavn31)
+[![ontribution](https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&theme=tokyo-night&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffc0cb&area=true&hide_border=true)](https://github.com/Pavn31)
