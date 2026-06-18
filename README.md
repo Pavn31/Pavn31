@@ -11,7 +11,6 @@ Building cool projects with Web Development, Arduino and AI.
 ## 🚀 Featured Projects
 
 - Smart Blind Stick
-- Fake OS
 - Portfolio Website
 
 ---
