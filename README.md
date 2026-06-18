@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 
-<h3 align="center">AI & Data Science Student</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pavn31/Pavn31/main/github-metrics.svg" alt="GitHub Metrics">
-</p>
+![GitHub Metrics](https://raw.githubusercontent.com/Pavn31/Pavn31/main/github-metrics.svg)
 ## 🚀 Featured Projects
 
 - Smart Blind Stick
