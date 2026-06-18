@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/4M34hi2.jpeg" width="100%">
-</p>
-
-<div align="center">
 
 # Pavan 👋
 
