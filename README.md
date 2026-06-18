@@ -31,18 +31,21 @@ Modern personal portfolio showcasing projects and skills.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Pavn31">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
 
-  <a href="https://www.linkedin.com/in/pavn-badiger/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://pavn31.dpdns.org">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="mailto:pavnbadiger@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://github.com/Pavn31">
+  <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<a href="https://www.linkedin.com/in/pavn-badiger/">
+  <img src="https://img.shields.io/badge/LinkedIn-ff85c1?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://pavn31.dpdns.org">
+  <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="mailto:pavnbadiger@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
