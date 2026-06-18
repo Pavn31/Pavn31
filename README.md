@@ -42,4 +42,7 @@ Modern personal portfolio showcasing projects and skills.
   <a href="https://pavn31.dpdns.org">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
   </a>
+  <a href="mailto:pavnbadiger@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
