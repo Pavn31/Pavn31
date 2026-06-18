@@ -65,7 +65,13 @@ Personal portfolio showcasing projects, skills, and development journey.
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&theme=tokyo-night)](https://github.com/Pavn31)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavn31&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pavn31&theme=transparent&hide_border=true" />
+</p>
 ---
 
 ## 🎯 Current Goals
