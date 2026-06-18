@@ -5,9 +5,10 @@
 # Know About Me
 
 <img align="Center" width="200" src="./assets/OBSERVER.jpg">
+Hey there! I'm **Pavan**, an **Artificial Intelligence & Data Science** student at **AITM** with a strong interest in building technology that makes a real impact. I enjoy exploring the intersection of software, artificial intelligence, and embedded systems while constantly learning new tools and technologies.
 
-AI & Data Science student passionate about building projects with AI, Web Development and Arduino.
+My journey so far has involved creating projects such as the **Smart Blind Stick**, an Arduino-based assistive navigation system designed to help visually impaired individuals, and my **personal portfolio website**, where I showcase my projects, skills, and growth as a developer. Through these projects, I've gained hands-on experience in problem-solving, web development, and hardware integration.
 
-Currently learning full stack development and exploring machine learning.
+I aspire to build innovative applications that combine **AI, modern web technologies, and IoT systems** to solve real-world challenges. My goal is to become a developer who not only writes code but creates meaningful solutions that improve people's lives. Every project I build is another step toward that vision.
 
 <br clear="center"/>
