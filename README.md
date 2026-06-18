@@ -7,6 +7,10 @@ Building cool projects with Web Development, Arduino and AI.
 </p>
 
 ---
+## 📊 GitHub Metrics
+
+![Metrics](./github-metrics.svg)
+
 
 ## 🚀 Featured Projects
 
@@ -32,7 +36,3 @@ Building cool projects with Web Development, Arduino and AI.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,c,cpp,git,github,vscode,arduino" />
 </p>
-
-## 📊 GitHub Metrics
-
-![Metrics](./github-metrics.svg)
