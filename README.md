@@ -27,3 +27,12 @@ Modern personal portfolio showcasing projects and skills.
 <br clear="right"/>
 
 ---
+
+# Connect
+
+<p align="center">
+<a href="https://github.com/Pavn31">GitHub</a> •
+<a href="https://www.linkedin.com/in/pavn-badiger/">LinkedIn</a>
+</p>
+
+---
