@@ -10,4 +10,4 @@ AI & Data Science student passionate about building projects with AI, Web Develo
 
 Currently learning full stack development and exploring machine learning.
 
-<br clear="left"/>
+<br clear="center"/>
