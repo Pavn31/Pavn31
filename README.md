@@ -3,7 +3,7 @@
 </p>
 
 # Know About Me
-<p align="left">
+<p align="center">
   <img src="./assets/OBSERVER.jpg" width="250">
 </p>
 Hey there! I'm Pavan, an Artificial Intelligence & Data Science student at AITM with a strong interest in building technology that makes a real impact. I enjoy exploring the intersection of software, artificial intelligence, and embedded systems while constantly learning new tools and technologies.
