@@ -28,11 +28,16 @@ Modern personal portfolio showcasing projects and skills.
 
 ---
 
-# Connect
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Pavn31">GitHub</a> •
-<a href="https://www.linkedin.com/in/pavn-badiger/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/pavn-badiger/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/Pavn31">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
+  </a>
+  <a href="https://pavn31.dpdns.org">
+    <img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome">
+  </a>
 </p>
-
----
