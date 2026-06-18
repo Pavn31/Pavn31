@@ -14,6 +14,10 @@ Building cool projects with Web Development, Arduino and AI.
 - Portfolio Website
 
 ---
+## 📈 Contribution Graph
+
+[![Pavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&theme=tokyo-night)](https://github.com/Pavn31)
+
 
 ## 📊 GitHub Stats
 
