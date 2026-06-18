@@ -11,7 +11,6 @@ Building useful things with code, AI, and hardware.
 
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -27,7 +26,6 @@ Focus:
 
 Currently building projects, learning new technologies, and improving one commit at a time.
 
----
 
 ## ⚡ Tech Stack
 
@@ -35,7 +33,6 @@ Currently building projects, learning new technologies, and improving one commit
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,c,cpp,git,github,vscode,arduino" />
 </p>
 
----
 
 ## 🌟 Featured Projects
 
@@ -71,7 +68,6 @@ Personal portfolio showcasing projects, skills, and development journey.
 * Improve DSA & problem solving
 * Explore AI and machine learning
 
----
 
 ## 🌐 Connect
 
@@ -85,7 +81,6 @@ Personal portfolio showcasing projects, skills, and development journey.
 </a>
 </p>
 
----
 
 <div align="center">
 
