@@ -15,15 +15,23 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 
 # Top Projects
 
-<img align="right" width="300" src="./assets/Lotus Flower-ver.jpg">
+<img align="right" width="250" src="./assets/Buh.jpg">
 
 🔹 **Smart Blind Stick**  
 Arduino assistive navigation system for visually impaired individuals.
 
+➡️ Repository: https://github.com/Pavn31/Smart-Blind-Stick
+
 🔹 **Portfolio Website**  
 Modern personal portfolio showcasing projects and skills.
+
+➡️ Live Site: https://pavn31.dpdns.org
 
 🔹 **AI Projects**  
 Experiments in machine learning, AI, and data science.
 
+➡️ Coming Soon
+
 <br clear="right"/>
+
+---
