@@ -14,6 +14,7 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 
 # Top Projects
 <img align="right" width="220" src="./assets/Buh.jpg">
+
 | Project | Description |
 |----------|-------------|
 | Smart Blind Stick | Arduino assistive navigation system |
