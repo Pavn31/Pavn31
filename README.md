@@ -4,7 +4,7 @@
 
 # Know About Me
 
-<img align="left" width="180" src="./assets/anime.png">
+<img align="left" width="180" src="./assets/OBSERVER.jpg">
 
 AI & Data Science student passionate about building projects with AI, Web Development and Arduino.
 
