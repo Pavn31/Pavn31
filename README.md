@@ -18,7 +18,7 @@ Building useful things with code, AI, and hardware.
 
 ## 🚀 About Me
 
-```yaml
+
 Name: Pavan
 Education: AI & Data Science
 Location: India
@@ -27,7 +27,6 @@ Focus:
   - Artificial Intelligence
   - Arduino & IoT
   - Open Source
-```
 
 Currently building projects, learning new technologies, and improving one commit at a time.
 
@@ -51,11 +50,6 @@ Assistive navigation system using Arduino, ultrasonic sensors, and obstacle dete
 
 Personal portfolio showcasing projects, skills, and development journey.
 
-### AI & Data Science
-
-Machine learning experiments, data analysis, and AI-focused mini projects.
-
----
 
 ## 📊 GitHub Stats
 
@@ -90,6 +84,9 @@ Machine learning experiments, data analysis, and AI-focused mini projects.
 <a href="https://www.linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+  <a href="https://www.pavn31.dpdns.org">
+    <img src="https://skillicons.dev/icons?i=Portfolio"/>
+  </a>
 </p>
 
 ---
