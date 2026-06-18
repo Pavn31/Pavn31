@@ -26,3 +26,9 @@ Building cool projects with Web Development, Arduino and AI.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavn31&layout=compact&theme=tokyonight)
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Pavn31&theme=tokyonight)
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,c,cpp,git,github,vscode,arduino" />
+</p>
