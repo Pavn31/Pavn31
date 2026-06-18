@@ -13,8 +13,9 @@ My journey so far has involved creating projects such as the **Smart Blind Stick
 I aspire to build innovative applications that combine **AI, modern web technologies, and IoT systems** to solve real-world challenges. My goal is to become a developer who not only writes code but creates meaningful solutions that improve people's lives. Every project I build is another step toward that vision.
 
 # Top Projects
-<img align="center" width="280" src="./assets/Buh.jpg"  style="border-radius:20px;">
-
+<p align="center"
+<img width="280" src="./assets/Buh.jpg"  style="border-radius:20px;">
+</p>
 | Project | Description |
 |----------|-------------|
 | Smart Blind Stick    | Arduino assistive navigation system |
