@@ -17,10 +17,10 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 
 <img align="right" width="300" src="./assets/Lotus Flower-ver.jpg">
 
-🔹 **Smart Blind Stick**  
+❀ **Smart Blind Stick**  
 Arduino assistive navigation system for visually impaired individuals.
 
-🔹 **Portfolio Website**  
+❀ **Portfolio Website**  
 Modern personal portfolio showcasing projects and skills.
 
 
