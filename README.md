@@ -9,11 +9,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,c,cpp,git,github,vscode,arduino" />
 </p>
 
-## 🚀 Featured Projects
-
-- Smart Blind Stick
-- Portfolio Website
-
 ---
 ## 📈 Contribution Graph
 
