@@ -1,6 +1,4 @@
-
 # Pavan 👋
-
 ### AI & Data Science Student
 
 Building useful things with code, AI, and hardware.
