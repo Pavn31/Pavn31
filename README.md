@@ -15,7 +15,7 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 
 # Top Projects
 
-<img align="right" width="250" src="./assets/Buh.jpg">
+<img align="right" width="250" src="./assets/Lotus Flower-ver.jpg">
 
 🔹 **Smart Blind Stick**  
 Arduino assistive navigation system for visually impaired individuals.
