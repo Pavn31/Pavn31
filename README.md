@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 
 ![GitHub Metrics](https://raw.githubusercontent.com/Pavn31/Pavn31/main/github-metrics.svg)
+
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,c,cpp,git,github,vscode,arduino" />
+</p>
+
 ## 🚀 Featured Projects
 
 - Smart Blind Stick
@@ -20,8 +28,7 @@
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Pavn31&theme=tokyonight)
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,c,cpp,git,github,vscode,arduino" />
-</p>
+- Smart Blind Stick
+- Portfolio Website
