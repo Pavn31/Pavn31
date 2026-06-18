@@ -11,6 +11,7 @@ Building useful things with code, AI, and hardware.
 
 </div>
 
+<img align="right" alt="Anime" width="250" src="./assets/Icon-13.jpg" />
 
 ## 🚀 About Me
 
