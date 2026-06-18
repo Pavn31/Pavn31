@@ -13,7 +13,7 @@ My journey so far has involved creating projects such as the **Smart Blind Stick
 I aspire to build innovative applications that combine **AI, modern web technologies, and IoT systems** to solve real-world challenges. My goal is to become a developer who not only writes code but creates meaningful solutions that improve people's lives. Every project I build is another step toward that vision.
 
 ---
-# Top Projects
+# 🎀 𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
 <img align="right" width="300" src="./assets/Lotus Flower-ver.jpg">
 
