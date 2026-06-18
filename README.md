@@ -1,25 +1,101 @@
-> Want to onnect wit me?\
-> Checkout [Pavn31 | Portfolio](https://pavn31.dpdns.org/)
-> 
+<div align="center">
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/Pavn31/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/Pavn31/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
-[<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/Pavn31/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+# Pavan 👋
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+### AI & Data Science Student
 
-[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+Building useful things with code, AI, and hardware.
 
-[<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
+<p>
+  <a href="https://github.com/Pavn31">
+    <img src="https://komarev.com/ghpvc/?username=Pavn31&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
+</div>
 
+---
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+## 🚀 About Me
 
-<!-- Grizzco: https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png -->
-<!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
-<!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
-<!-- The world ender: https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png -->
-<!-- Farewell Miura: https://user-images.githubusercontent.com/22963968/119890439-1ff29f00-bf38-11eb-8515-d0a9c3c8a6b6.png -->
-<!-- First steps with JavaScript: https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png -->
+```yaml
+Name: Pavan
+Education: AI & Data Science
+Location: India
+Focus:
+  - Web Development
+  - Artificial Intelligence
+  - Arduino & IoT
+  - Open Source
+```
+
+Currently building projects, learning new technologies, and improving one commit at a time.
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,c,cpp,git,github,vscode,arduino" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### Smart Blind Stick
+
+Assistive navigation system using Arduino, ultrasonic sensors, and obstacle detection.
+
+### Portfolio Website
+
+Personal portfolio showcasing projects, skills, and development journey.
+
+### AI & Data Science
+
+Machine learning experiments, data analysis, and AI-focused mini projects.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pavn31&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavn31&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Pavn31&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* Build impactful projects
+* Learn modern full-stack development
+* Improve DSA & problem solving
+* Explore AI and machine learning
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://github.com/Pavn31">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### "Build. Learn. Repeat."
+
+</div>
