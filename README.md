@@ -56,6 +56,14 @@ A modern developer portfolio showcasing projects, skills, and learning journey.
 Experiments, mini-projects, and applications built while exploring machine learning and data science concepts.
 
 ---
+## 🌆 GitHub Skyline
+
+<p align="center">
+  <a href="https://skyline.github.com/Pavn31">
+    <img src="https://img.shields.io/badge/View%20My-GitHub%20Skyline-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Statistics
 
@@ -72,5 +80,4 @@ Experiments, mini-projects, and applications built while exploring machine learn
 
 ## 🎯 Current Focus
 
-```text
 Learning → Building → Improving
