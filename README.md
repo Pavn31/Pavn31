@@ -14,7 +14,7 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 
 # Top Projects
 <p align="center"
-<img width="280" src="./assets/Buh.jpg"  style="border-radius:20px;">
+<img width="280" src="./assets/Buh.jpg"  style="border-radius:20px;"/>
 </p>
 
 
