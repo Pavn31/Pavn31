@@ -28,7 +28,7 @@ Modern personal portfolio showcasing projects and skills.
 
 ---
 
-## 🌸 Connect With Me
+## 🌷 𝑪𝒐𝒏𝒏𝒆𝒄𝒕
 
 <p align="center">
 
