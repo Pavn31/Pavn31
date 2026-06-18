@@ -32,18 +32,14 @@ Modern personal portfolio showcasing projects and skills.
 
 <p align="center">
   <a href="https://github.com/Pavn31">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 
   <a href="https://www.linkedin.com/in/pavn-badiger/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
 
   <a href="https://pavn31.dpdns.org">
-    <img src="https://skillicons.dev/icons?i=webflow" />
-  </a>
-
-  <a href="mailto:pavnbadiger@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
   </a>
 </p>
