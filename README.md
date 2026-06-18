@@ -84,9 +84,6 @@ Personal portfolio showcasing projects, skills, and development journey.
 <a href="https://www.linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-  <a href="https://www.pavn31.dpdns.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" />
-  </a>
 </p>
 
 ---
