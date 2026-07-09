@@ -15,7 +15,7 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 ---
 # 🎀 𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
-<img align="right" width="300" src="./assets/Cake1.png">
+<img align="right" width="300" src="./assets/AniMiku.png">
 
 ❀ **Smart Blind Stick**  
 Arduino assistive navigation system for visually impaired individuals.
