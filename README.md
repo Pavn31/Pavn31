@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Front.jpg" width="100%">
+  <img src="./assets/banner.jpg" width="100%">
 </p>
 
 # 🌸 𝒦𝓃𝑜𝓌 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
@@ -15,7 +15,7 @@ I aspire to build innovative applications that combine **AI, modern web technolo
 ---
 # 🎀 𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
 
-<img align="right" width="300" src="./assets/Lotus Flower-ver.jpg">
+<img align="right" width="300" src="./assets/Cake1.png">
 
 ❀ **Smart Blind Stick**  
 Arduino assistive navigation system for visually impaired individuals.
