@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner.jpg" width="100%">
+  <img src="./assets/banner1.jpg" width="100%">
 </p>
 
 # 🌸 𝒦𝓃𝑜𝓌 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
