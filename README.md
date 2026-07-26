@@ -1,56 +1,122 @@
-<p align="center">
-  <img src="./assets/banner.jpg" width="100%">
-</p>
+<div align="center">
 
-# 🌸 𝒦𝓃𝑜𝓌 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
-<p align="center">
-  <img src="./assets/About.gif" width="500">
-</p>
-Hey there! I'm Pavan, an Artificial Intelligence & Data Science student at AITM with a strong interest in building technology that makes a real impact. I enjoy exploring the intersection of software, artificial intelligence, and embedded systems while constantly learning new tools and technologies.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5B21B6,50:7C3AED,100:3B82F6&text=Pavan%20Badiger&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-My journey so far has involved creating projects such as the **Smart Blind Stick**, an Arduino-based assistive navigation system designed to help visually impaired individuals, and my **personal portfolio website**, where I showcase my projects, skills, and growth as a developer. Through these projects, I've gained hands-on experience in problem-solving, web development, and hardware integration.
+<br>
 
-I aspire to build innovative applications that combine **AI, modern web technologies, and IoT systems** to solve real-world challenges. My goal is to become a developer who not only writes code but creates meaningful solutions that improve people's lives. Every project I build is another step toward that vision.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Enthusiast;Building+Real+World+Projects"/>
 
----
-# 🎀 𝑴𝒚 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+<br><br>
 
-<img align="right" width="300" src="./assets/AniMiku.png">
-
-❀ **Smart Blind Stick**  
-Arduino assistive navigation system for visually impaired individuals.
-
-❀ **Portfolio Website**  
-Modern personal portfolio showcasing projects and skills.
-
-
-<br clear="right"/>
-
----
-
-## 🌷 𝑪𝒐𝒏𝒏𝒆𝒄𝒕
-
-<p align="center">
-
-<a href="https://github.com/Pavn31">
-  <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://pavn31.dpdns.org/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pavn-badiger/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff85c1?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://pavn31.dpdns.org">
-  <img src="https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=white">
+<a href="https://www.linkedin.com/in/pavn-badiger">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pavnbadiger@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Pavn31">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Pavn31&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/Pavn31?style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/stars/Pavn31?affiliations=OWNER&style=for-the-badge&color=7C3AED)
+
+</div>
+
+---
+
+# About Me
+
+I'm **Pavan Badiger**, an **Artificial Intelligence & Data Science** undergraduate passionate about building practical software that solves real-world problems.
+
+My interests span across **Software Engineering**, **Cybersecurity**, **Artificial Intelligence**, **Web Development**, and **Open Source**.
+
+I enjoy turning ideas into polished products while continuously improving my engineering fundamentals, system design knowledge, and development workflow.
+
+Currently I'm focused on building projects that combine creativity with practical impact while preparing myself for opportunities in modern software engineering.
+
+---
+
+## Open To
+
+- Software Engineering Internships
+- AI & Machine Learning Projects
+- Full Stack Development
+- Open Source Collaboration
+- Cybersecurity Projects
+- Research & Innovation
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css"/>
 
 </p>
 
+---
 
-## 🌸 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓖𝓻𝓪𝓹𝓱
+## Frontend
 
-[![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&theme=tokyo-night&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffc0cb&area=true&hide_border=true)](https://github.com/Pavn31)
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
+
+</p>
+
+---
+
+## Backend & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+
+</p>
+
+---
+
+## Cloud • DevOps • Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash,vercel,netlify,figma"/>
+
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Level | Details |
+|---------|------|---------|
+| Artificial Intelligence | Intermediate | Core AI concepts, problem solving |
+| Machine Learning | Intermediate | Model building, preprocessing, evaluation |
+| Deep Learning | Learning | Neural Networks & Computer Vision |
+| Data Structures & Algorithms | Improving | Competitive programming & interview preparation |
+| Web Development | Advanced | Modern responsive applications |
+| Cybersecurity | Learning | Linux, networking, penetration testing fundamentals |
+| Software Engineering | Intermediate | Clean architecture, Git workflow, scalable development |
+
+---
+
+# Engineering Philosophy
+
+> **"Build projects that solve real problems, write maintainable code, and never stop learning."**
+
+---
