@@ -311,17 +311,6 @@ Working on practical software engineering and embedded systems projects while st
 
 ---
 
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Pavn31/Pavn31/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
