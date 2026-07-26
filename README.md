@@ -260,30 +260,6 @@ Working on practical software engineering and embedded systems projects while st
 
 # Certifications
 
-## AWS
-
-> *Currently Pursuing*
-
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## Cisco
-
-> *Networking & Cybersecurity (Planned)*
-
-![Cisco](https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## Oracle
-
-> *Java & Database Certifications (Planned)*
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
 ## NPTEL
 
 > *Engineering Courses*
@@ -316,28 +292,10 @@ Working on practical software engineering and embedded systems projects while st
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pavn31&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pavn31&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Pavn31&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pavn31&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
