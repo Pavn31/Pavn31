@@ -241,3 +241,107 @@ Working on practical software engineering and embedded systems projects while st
 - System Design
 
 ---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|--------------|---------|
+| 🚀 Software Development | Building practical software and embedded system projects |
+| 🤖 AI & Data Science | Undergraduate specializing in AI & DS |
+| 🌐 Portfolio | Designed and deployed a modern developer portfolio |
+| 🦯 Accessibility | Developed Smart Blind Stick for assistive technology |
+| 📚 Continuous Learning | Consistently learning AI, Cybersecurity & Full Stack Development |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+> *Currently Pursuing*
+
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## Cisco
+
+> *Networking & Cybersecurity (Planned)*
+
+![Cisco](https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## Oracle
+
+> *Java & Database Certifications (Planned)*
+
+![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## NPTEL
+
+> *Engineering Courses*
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Learning-0066B3?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavn31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavn31&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Pavn31&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pavn31&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
