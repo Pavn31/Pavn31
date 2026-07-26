@@ -120,3 +120,124 @@ Currently I'm focused on building projects that combine creativity with practica
 > **"Build projects that solve real problems, write maintainable code, and never stop learning."**
 
 ---
+
+# Featured Projects
+
+<details open>
+<summary><b>🦯 Smart Blind Stick</b></summary>
+
+### AI-assisted Smart Navigation System
+
+A smart assistive device designed to improve independent mobility for visually impaired individuals by combining obstacle detection, water detection, GPS tracking and GSM emergency communication.
+
+| Category | Details |
+|----------|---------|
+| **Stack** | Arduino UNO, C++, HC-SR04, GPS, GSM, Sensors |
+| **Scale** | Embedded IoT Project |
+| **Performance** | Real-time obstacle detection |
+| **Security** | Emergency SOS & Location Sharing |
+| **Impact** | Accessibility & Social Good |
+| **Repository** | https://github.com/Pavn31/Smart-Blind-Stick |
+
+#### Highlights
+
+- Real-time ultrasonic obstacle detection
+- Water detection alerts
+- GPS live location tracking
+- GSM emergency messaging
+- Low-cost accessibility solution
+- Optimized Arduino implementation
+
+</details>
+
+---
+
+<details open>
+<summary><b>🌐 Personal Portfolio</b></summary>
+
+### Modern Developer Portfolio
+
+A minimal developer portfolio showcasing projects, skills and engineering journey with responsive UI and clean design.
+
+| Category | Details |
+|----------|---------|
+| **Stack** | HTML, CSS, JavaScript |
+| **Deployment** | Vercel / Custom Domain |
+| **Performance** | Optimized & Responsive |
+| **Design** | Modern Minimal UI |
+| **Repository** | Portfolio Repository |
+| **Website** | https://pavn31.dpdns.org/ |
+
+#### Features
+
+- Fully Responsive
+- Dark Theme
+- Modern Animations
+- Professional UI
+- Recruiter Friendly
+- Fast Loading
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡 Cybersecurity Projects (Coming Soon)</b></summary>
+
+Current areas of exploration:
+
+- Linux Security
+- Networking
+- Penetration Testing
+- Digital Forensics
+- Web Security
+- Ethical Hacking Labs
+- Capture The Flag (CTF)
+
+</details>
+
+---
+
+# Experience
+
+## Student Developer
+
+**Artificial Intelligence & Data Science Undergraduate**
+
+**2025 — Present**
+
+Working on practical software engineering and embedded systems projects while strengthening fundamentals in AI, cybersecurity and full-stack development.
+
+### Responsibilities
+
+- Building real-world software projects
+- Learning modern development workflows
+- Exploring AI & Machine Learning
+- Developing embedded IoT solutions
+- Improving problem-solving skills
+- Contributing to personal open-source work
+
+### Core Skills
+
+`Software Engineering`
+`Full Stack`
+`Artificial Intelligence`
+`Cybersecurity`
+`Embedded Systems`
+`Git`
+`Linux`
+
+---
+
+# Current Engineering Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Cybersecurity
+- Backend Development
+- Cloud Computing
+- Open Source
+- System Design
+
+---
