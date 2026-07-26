@@ -345,3 +345,91 @@ Working on practical software engineering and embedded systems projects while st
 </div>
 
 ---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pavn31/YOUR_REPOSITORY_NAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Cybersecurity
+  - Data Structures & Algorithms
+  - System Design
+
+Building:
+  - Real World Engineering Projects
+  - AI Applications
+  - Modern Web Applications
+  - Embedded IoT Systems
+
+Exploring:
+  - Cloud Computing
+  - DevOps
+  - Docker
+  - Linux
+  - Open Source
+
+Open To:
+  - Software Engineering Internships
+  - AI & ML Opportunities
+  - Open Source Collaboration
+  - Hackathons
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:pavnbadiger@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pavn-badiger">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pavn31">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://pavn31.dpdns.org/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for stopping by!
+
+*"Code with curiosity. Build with purpose. Learn without limits."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5B21B6,50:7C3AED,100:3B82F6"/>
+
+</div>
