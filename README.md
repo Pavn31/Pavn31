@@ -186,13 +186,7 @@ A minimal developer portfolio showcasing projects, skills and engineering journe
 
 Current areas of exploration:
 
-- Linux Security
-- Networking
-- Penetration Testing
-- Digital Forensics
-- Web Security
-- Ethical Hacking Labs
-- Capture The Flag (CTF)
+-DecAI
 
 </details>
 
