@@ -184,7 +184,7 @@ A minimal developer portfolio showcasing projects, skills and engineering journe
 <details>
 <summary><b>🛡 Cybersecurity Projects (Coming Soon)</b></summary>
 
-Current areas of exploration:
+
 
 -DecAI
 
