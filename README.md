@@ -110,6 +110,33 @@ I am particularly interested in:
 ---
 
 ## Featured Projects
+<details>
+<summary><strong>GhostFile</strong></summary>
+
+<br/>
+
+A lightweight web-based file management and sharing project focused on simple, fast and privacy-conscious file handling through a clean modern interface.
+
+| Category        | Details                                          |
+| --------------- | ------------------------------------------------ |
+| **Stack**       | HTML, CSS, JavaScript                            |
+| **Scale**       | Web-based file management project                |
+| **Performance** | Lightweight and responsive frontend              |
+| **Security**    | Privacy-focused file handling                    |
+| **Impact**      | Simplifies temporary file management and sharing |
+| **Repository**  | [GitHub](https://github.com/Pavn31/GhostFile)    |
+
+### Engineering Scope
+
+* File upload and management
+* File preview and download
+* Responsive web interface
+* Clean minimal UI
+* Client-side interactions
+* File-oriented workflow
+* Lightweight architecture
+
+</details>
 
 
 ---
