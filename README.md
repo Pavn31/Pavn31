@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=PAVN31&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20Software%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<p align="left">
+  <img src="./assets/_.jpeg" width="180" alt="Pavan">
+</p>
 
 <a href="https://readme-typing-svg.demolab.com/">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Software+Engineering+Enthusiast;AI%2FML+%26+Cybersecurity+Builder;Full-Stack+Developer;Building+Practical+Technology" alt="Typing SVG"/>
