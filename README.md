@@ -112,7 +112,6 @@ I am particularly interested in:
 ## Featured Projects
 
 <details>
-<summary><strong>DecAI — AI-Powered Cybersecurity & Detection Platform</strong></summary>
 
 <br/>
 
