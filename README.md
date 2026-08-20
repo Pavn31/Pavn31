@@ -364,14 +364,3 @@ open_to:
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-> **Build systems. Solve problems. Keep learning.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/>
-
-</div>
-
