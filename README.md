@@ -302,7 +302,7 @@ Focused on academic development and independent software/hardware projects acros
 
 ## Current Focus
 
-```yaml
+
 profile:
   name: Pavn31
   role: "AI & Data Science Student"
