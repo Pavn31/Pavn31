@@ -300,48 +300,6 @@ Focused on academic development and independent software/hardware projects acros
 
 ---
 
-## Current Focus
-
-
-profile:
-
-
-  name: Pavn31
-
-  
-  role: "AI & Data Science Student"
-
-  
-  focus:
-    - Software Engineering
-    - Artificial Intelligence
-    - Machine Learning
-    - Cybersecurity
-    - Full-Stack Development
-
-learning:
-  - Advanced Python
-  - Machine Learning
-  - AI Engineering
-  - System Design
-  - Cybersecurity
-
-
-exploring:
-  - Linux Systems
-  - AI Security
-  - Automation
-  - Embedded Systems
-  - Open Source
-
-open_to:
-  - Internships
-  - Open Source
-  - AI/ML Projects
-  - Cybersecurity Projects
-  - Software Engineering Opportunities
-
----
 
 ## Connect
 
