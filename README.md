@@ -244,25 +244,7 @@ Focused on academic development and independent software/hardware projects acros
 
 ---
 
-## Certifications
 
-### AWS
-
-> Certifications not listed in the provided profile information.
-
-### Oracle
-
-> Certifications not listed in the provided profile information.
-
-### NPTEL
-
-> Certifications not listed in the provided profile information.
-
-### Cisco
-
-> Certifications not listed in the provided profile information.
-
----
 
 ## Coding Profiles
 
@@ -396,4 +378,4 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/>
 
 </div>
-```
+
