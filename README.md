@@ -339,7 +339,6 @@ open_to:
   - AI/ML Projects
   - Cybersecurity Projects
   - Software Engineering Opportunities
-````
 
 ---
 
