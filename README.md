@@ -304,8 +304,14 @@ Focused on academic development and independent software/hardware projects acros
 
 
 profile:
+
+
   name: Pavn31
+
+  
   role: "AI & Data Science Student"
+
+  
   focus:
     - Software Engineering
     - Artificial Intelligence
@@ -320,11 +326,6 @@ learning:
   - System Design
   - Cybersecurity
 
-building:
-  - DecAI
-  - Security Detection Systems
-  - Full-Stack Applications
-  - Developer Tools
 
 exploring:
   - Linux Systems
