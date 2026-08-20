@@ -300,17 +300,6 @@ Focused on academic development and independent software/hardware projects acros
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pavn31&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
 
 
 
@@ -365,7 +354,6 @@ open_to:
   - Software Engineering Opportunities
 ````
 
----
 
 ## Connect
 
