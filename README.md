@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<p align="left">
+<p align="center">
   <img src="./assets/_.jpeg" width="180" alt="Pavan">
 </p>
 
