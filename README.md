@@ -111,36 +111,6 @@ I am particularly interested in:
 
 ## Featured Projects
 
-<details>
-
-<br/>
-
-A cybersecurity platform focused on network monitoring, attack detection, security analytics and AI-assisted threat analysis.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, Scapy, FastAPI, Uvicorn, React, Vite |
-| **Scale** | Modular security monitoring platform |
-| **Performance** | Real-time packet monitoring and event processing |
-| **Security** | Port-scan, DDoS and brute-force detection |
-| **Impact** | Converts network activity into actionable security events |
-| **Repository** | GitHub project under development |
-
-### Engineering Scope
-
-- Network packet capture and analysis
-- Packet statistics and protocol monitoring
-- IP and port history tracking
-- Port-scan detection
-- DDoS detection based on traffic surges
-- Brute-force detection
-- Attack event logging
-- Security dashboard
-- CSV attack-log export
-- Frontend analytics and visualization
-- Planned AI-assisted security analysis
-
-</details>
 
 ---
 
