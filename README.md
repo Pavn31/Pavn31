@@ -292,11 +292,7 @@ Focused on academic development and independent software/hardware projects acros
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pavn31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavn31&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Pavn31&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8"/>
 
