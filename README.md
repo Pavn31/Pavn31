@@ -300,25 +300,3 @@ Focused on academic development and independent software/hardware projects acros
 
 ---
 
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:pavnbadiger@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pavn-badiger">
-<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pavn31">
-<img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://pavn31.dpdns.org/">
-<img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
