@@ -1,360 +1,398 @@
+````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5B21B6,50:7C3AED,100:3B82F6&text=Pavan%20Badiger&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=PAVN31&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20Software%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
-<br>
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Software+Engineering+Enthusiast;AI%2FML+%26+Cybersecurity+Builder;Full-Stack+Developer;Building+Practical+Technology" alt="Typing SVG"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Cybersecurity+Learner;Open+Source+Enthusiast;Building+Real+World+Projects"/>
+<br/>
 
-<br><br>
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Engineering%20Student-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
 
 <a href="https://pavn31.dpdns.org/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/pavn-badiger">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:pavnbadiger@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Pavn31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-![](https://komarev.com/ghpvc/?username=Pavn31&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/Pavn31?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/Pavn31?affiliations=OWNER&style=for-the-badge&color=7C3AED)
+<img src="https://komarev.com/ghpvc/?username=Pavn31&label=Profile%20Views&color=7C3AED&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Pavn31?label=Followers&style=flat-square&color=6D28D9"/>
+<img src="https://img.shields.io/github/stars/Pavn31?affiliations=OWNER&label=Stars&style=flat-square&color=4C1D95"/>
 
 </div>
 
 ---
 
-# About Me
+## About
 
-I'm **Pavan Badiger**, an **Artificial Intelligence & Data Science** undergraduate passionate about building practical software that solves real-world problems.
+I am an **AI & Data Science student** focused on building practical software systems across **artificial intelligence, machine learning, cybersecurity, automation, and full-stack development**.
 
-My interests span across **Software Engineering**, **Cybersecurity**, **Artificial Intelligence**, **Web Development**, and **Open Source**.
+My approach combines engineering fundamentals with experimentation: understand the problem, design the system, build the implementation, test it, and continuously improve it.
 
-I enjoy turning ideas into polished products while continuously improving my engineering fundamentals, system design knowledge, and development workflow.
+I am particularly interested in:
 
-Currently I'm focused on building projects that combine creativity with practical impact while preparing myself for opportunities in modern software engineering.
+- Software engineering and system design
+- Artificial Intelligence and Machine Learning
+- Cybersecurity and security automation
+- Full-stack web development
+- Developer tooling and Linux
+- Embedded systems and hardware projects
+- Product-oriented engineering
+
+### Open To
+
+- Software engineering opportunities
+- AI / ML projects
+- Cybersecurity projects
+- Open-source collaboration
+- Student engineering projects
+- Technical internships
 
 ---
 
-## Open To
+## Tech Stack
 
-- Software Engineering Internships
-- AI & Machine Learning Projects
-- Full Stack Development
-- Open Source Collaboration
-- Cybersecurity Projects
-- Research & Innovation
-
----
-
-# Tech Stack
-
-## Languages
+### Languages
 
 <p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css"/>
+### Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,sqlite,mongodb&theme=dark"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vercel,cloudflare,vscode&theme=dark"/>
 </p>
 
 ---
 
-## Frontend
+## AI / ML Expertise
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
-
-</p>
-
----
-
-## Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-
-</p>
+| Domain | Proficiency | Details |
+|---|---|---|
+| Python | Advanced | Primary language for AI, automation and backend development |
+| Machine Learning | Developing | Model experimentation and applied ML workflows |
+| Artificial Intelligence | Developing | AI-powered applications and intelligent systems |
+| Data Science | Developing | Data processing, analysis and practical experimentation |
+| Computer Vision | Developing | Exploration of vision-based intelligent systems |
+| AI Security | Developing | AI-assisted cybersecurity and detection concepts |
+| Automation | Developing | Python-based tooling and automated workflows |
 
 ---
 
-## Cloud • DevOps • Tools
+## Featured Projects
 
-<p>
+<details>
+<summary><strong>DecAI — AI-Powered Cybersecurity & Detection Platform</strong></summary>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash,vercel,netlify,figma"/>
+<br/>
 
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Level | Details |
-|---------|------|---------|
-| Artificial Intelligence | Intermediate | Core AI concepts, problem solving |
-| Machine Learning | Intermediate | Model building, preprocessing, evaluation |
-| Deep Learning | Learning | Neural Networks & Computer Vision |
-| Data Structures & Algorithms | Improving | Competitive programming & interview preparation |
-| Web Development | Advanced | Modern responsive applications |
-| Cybersecurity | Learning | Linux, networking, penetration testing fundamentals |
-| Software Engineering | Intermediate | Clean architecture, Git workflow, scalable development |
-
----
-
-# Engineering Philosophy
-
-> **"Build projects that solve real problems, write maintainable code, and never stop learning."**
-
----
-
-# Featured Projects
-
-<details open>
-<summary><b>🦯 Smart Blind Stick</b></summary>
-
-### AI-assisted Smart Navigation System
-
-A smart assistive device designed to improve independent mobility for visually impaired individuals by combining obstacle detection, water detection, GPS tracking and GSM emergency communication.
+A cybersecurity platform focused on network monitoring, attack detection, security analytics and AI-assisted threat analysis.
 
 | Category | Details |
-|----------|---------|
-| **Stack** | Arduino UNO, C++, HC-SR04, GPS, GSM, Sensors |
-| **Scale** | Embedded IoT Project |
-| **Performance** | Real-time obstacle detection |
-| **Security** | Emergency SOS & Location Sharing |
-| **Impact** | Accessibility & Social Good |
-| **Repository** | https://github.com/Pavn31/Smart-Blind-Stick |
+|---|---|
+| **Stack** | Python, Scapy, FastAPI, Uvicorn, React, Vite |
+| **Scale** | Modular security monitoring platform |
+| **Performance** | Real-time packet monitoring and event processing |
+| **Security** | Port-scan, DDoS and brute-force detection |
+| **Impact** | Converts network activity into actionable security events |
+| **Repository** | GitHub project under development |
 
-#### Highlights
+### Engineering Scope
 
-- Real-time ultrasonic obstacle detection
-- Water detection alerts
-- GPS live location tracking
-- GSM emergency messaging
-- Low-cost accessibility solution
-- Optimized Arduino implementation
-
-</details>
-
----
-
-<details open>
-<summary><b>🌐 Personal Portfolio</b></summary>
-
-### Modern Developer Portfolio
-
-A minimal developer portfolio showcasing projects, skills and engineering journey with responsive UI and clean design.
-
-| Category | Details |
-|----------|---------|
-| **Stack** | HTML, CSS, JavaScript |
-| **Deployment** | Vercel / Custom Domain |
-| **Performance** | Optimized & Responsive |
-| **Design** | Modern Minimal UI |
-| **Repository** | Portfolio Repository |
-| **Website** | https://pavn31.dpdns.org/ |
-
-#### Features
-
-- Fully Responsive
-- Dark Theme
-- Modern Animations
-- Professional UI
-- Recruiter Friendly
-- Fast Loading
+- Network packet capture and analysis
+- Packet statistics and protocol monitoring
+- IP and port history tracking
+- Port-scan detection
+- DDoS detection based on traffic surges
+- Brute-force detection
+- Attack event logging
+- Security dashboard
+- CSV attack-log export
+- Frontend analytics and visualization
+- Planned AI-assisted security analysis
 
 </details>
 
 ---
 
 <details>
-<summary><b>🛡 Cybersecurity Projects (Coming Soon)</b></summary>
+<summary><strong>Smart Blind Stick</strong></summary>
 
+<br/>
 
+An Arduino-based assistive technology project designed to improve mobility and situational awareness through obstacle detection, location tracking, GSM communication and voice guidance.
 
--DecAI
+| Category | Details |
+|---|---|
+| **Stack** | Arduino UNO, C/C++, HC-SR04, GPS, GSM |
+| **Scale** | Embedded assistive technology prototype |
+| **Performance** | Real-time sensor-based obstacle detection |
+| **Security** | GSM-based emergency communication |
+| **Impact** | Designed to improve navigation and emergency awareness |
+| **Repository** | [GitHub](https://github.com/Pavn31/Smart-Blind-Stick) |
+
+### Engineering Scope
+
+- Ultrasonic obstacle detection
+- GPS location tracking
+- GSM emergency communication
+- Buzzer-based alerts
+- Voice guidance concepts
+- Embedded hardware integration
+- Arduino-based control logic
 
 </details>
 
 ---
 
-# Experience
+<details>
+<summary><strong>Portfolio — Pavn31</strong></summary>
 
-## Student Developer
+<br/>
 
-**Artificial Intelligence & Data Science Undergraduate**
+A personal engineering portfolio focused on presenting projects, technical work, experiments and development progress through a minimal modern interface.
+
+| Category | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Scale** | Personal developer portfolio |
+| **Performance** | Lightweight frontend architecture |
+| **Security** | HTTPS deployment and DNS configuration |
+| **Impact** | Centralized technical and project presence |
+| **Repository** | [GitHub](https://github.com/Pavn31/Portfolio) |
+
+### Engineering Scope
+
+- Responsive web design
+- Project showcase
+- Technical blog
+- Project documentation
+- Contact integrations
+- Modern UI interactions
+- Cloud-based deployment
+
+</details>
+
+---
+
+## Experience
+
+### Student Developer & Independent Builder
 
 **2025 — Present**
 
-Working on practical software engineering and embedded systems projects while strengthening fundamentals in AI, cybersecurity and full-stack development.
+Focused on academic development and independent software/hardware projects across AI, cybersecurity, web development and embedded systems.
 
-### Responsibilities
+#### Scope
 
-- Building real-world software projects
-- Learning modern development workflows
-- Exploring AI & Machine Learning
-- Developing embedded IoT solutions
-- Improving problem-solving skills
-- Contributing to personal open-source work
+- Building practical software projects
+- Developing AI and cybersecurity concepts
+- Experimenting with Linux and developer tooling
+- Designing full-stack applications
+- Developing embedded Arduino systems
+- Maintaining GitHub repositories
+- Documenting technical work
+- Exploring system-level engineering
 
-### Core Skills
-
-`Software Engineering`
-`Full Stack`
-`Artificial Intelligence`
-`Cybersecurity`
-`Embedded Systems`
-`Git`
-`Linux`
+`Python` `C/C++` `JavaScript` `Linux` `Git` `AI/ML` `Cybersecurity`
 
 ---
 
-# Current Engineering Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Software Engineering
-- Cybersecurity
-- Backend Development
-- Cloud Computing
-- Open Source
-- System Design
-
----
-
-# Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|--------------|---------|
-| 🚀 Software Development | Building practical software and embedded system projects |
-| 🤖 AI & Data Science | Undergraduate specializing in AI & DS |
-| 🌐 Portfolio | Designed and deployed a modern developer portfolio |
-| 🦯 Accessibility | Developed Smart Blind Stick for assistive technology |
-| 📚 Continuous Learning | Consistently learning AI, Cybersecurity & Full Stack Development |
+|---|---|
+| Engineering Projects | Built practical AI, cybersecurity and embedded-system projects |
+| Open Source | Maintains public technical projects on GitHub |
+| AI & Data Science | Academic focus with independent AI/ML experimentation |
+| Cybersecurity | Developed network monitoring and attack-detection concepts |
+| Embedded Systems | Designed Arduino-based assistive technology |
 
 </div>
 
 ---
 
-# Certifications
+## Certifications
 
-## NPTEL
+### AWS
 
-> *Engineering Courses*
+> Certifications not listed in the provided profile information.
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Learning-0066B3?style=for-the-badge)
+### Oracle
+
+> Certifications not listed in the provided profile information.
+
+### NPTEL
+
+> Certifications not listed in the provided profile information.
+
+### Cisco
+
+> Certifications not listed in the provided profile information.
 
 ---
 
-# Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=00A86B"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
 </a>
 
 </div>
 
 ---
 
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pavn31&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pavn31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavn31&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Pavn31&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pavn31&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
 ---
 
-# Current Focus
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pavn31/Pavn31/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## Current Focus
 
 ```yaml
-Learning:
-  - Artificial Intelligence
+profile:
+  name: Pavn31
+  role: "AI & Data Science Student"
+  focus:
+    - Software Engineering
+    - Artificial Intelligence
+    - Machine Learning
+    - Cybersecurity
+    - Full-Stack Development
+
+learning:
+  - Advanced Python
   - Machine Learning
-  - Cybersecurity
-  - Data Structures & Algorithms
+  - AI Engineering
   - System Design
+  - Cybersecurity
 
-Building:
-  - Real World Engineering Projects
-  - AI Applications
-  - Modern Web Applications
-  - Embedded IoT Systems
+building:
+  - DecAI
+  - Security Detection Systems
+  - Full-Stack Applications
+  - Developer Tools
 
-Exploring:
-  - Cloud Computing
-  - DevOps
-  - Docker
-  - Linux
+exploring:
+  - Linux Systems
+  - AI Security
+  - Automation
+  - Embedded Systems
   - Open Source
 
-Open To:
-  - Software Engineering Internships
-  - AI & ML Opportunities
-  - Open Source Collaboration
-  - Hackathons
-```
+open_to:
+  - Internships
+  - Open Source
+  - AI/ML Projects
+  - Cybersecurity Projects
+  - Software Engineering Opportunities
+````
 
 ---
 
-# Connect
+## Connect
 
 <div align="center">
 
 <a href="mailto:pavnbadiger@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pavn-badiger">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Pavn31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://pavn31.dpdns.org/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -363,12 +401,9 @@ Open To:
 
 <div align="center">
 
-## Thanks for stopping by!
+> **Build systems. Solve problems. Keep learning.**
 
-*"Code with curiosity. Build with purpose. Learn without limits."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5B21B6,50:7C3AED,100:3B82F6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%"/>
 
 </div>
+```
