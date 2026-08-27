@@ -266,28 +266,6 @@ Focused on academic development and independent software/hardware projects acros
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-
-
-<img src="https://streak-stats.demolab.com?user=Pavn31&theme=transparent&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8"/>
-
-</div>
-
----
-
-
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavn31&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%"/>
-
-</div>
-
 ---
 
 ## Contribution Snake
