@@ -266,8 +266,6 @@ Focused on academic development and independent software/hardware projects acros
 
 ---
 
----
-
 ## Contribution Snake
 
 <div align="center">
