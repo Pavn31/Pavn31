@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<a href="https://pavn31.dpdns.org/">
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/pavn-badiger">
