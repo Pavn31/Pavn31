@@ -18,7 +18,7 @@
 <br />
 
 <div align="center">
-<video src="assets/Gif.mp4" width="680" height="240" autoplay loop muted playsinline controls aria-label="Pavan Badiger intro animation" style="width: 680px; max-width: 100%; height: 240px; object-fit: cover; border-radius: 16px;"></video>
+<video src="assets/Gif.gif" width="680" height="240" autoplay loop muted playsinline controls aria-label="Pavan Badiger intro animation" style="width: 680px; max-width: 100%; height: 240px; object-fit: cover; border-radius: 16px;"></video>
 </div>
 
 ## About
